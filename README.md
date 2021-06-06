@@ -5,7 +5,7 @@ Le projet Eliza est un projet dans lequel nous devions concevoir un chatbot capa
 
 Installation
 
-Pour installer le programme, il vous faudra d'abord creer un bot sur discord et le mettre sur un serveur. Vous aurez ensuite a installer node.js, creer un fichier et mettre le code.
+Pour installer le programme, il vous faudra d'abord creer un bot sur discord et le mettre sur un serveur. Vous aurez ensuite a installer node.js, creer un fichier et utiliser les fichiers.
 
 
 Démarrage
